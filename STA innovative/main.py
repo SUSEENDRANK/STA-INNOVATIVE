@@ -14,8 +14,7 @@ for i in range(attempts):
 
     if username == saved_username:
         print("Username Found")
-
-        # Error line
+        
         if password == saved_pass:
 
             print("Password Correct")
