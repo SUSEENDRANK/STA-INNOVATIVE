@@ -1,5 +1,3 @@
-# Login Authentication System with Errors
-
 print("====== LOGIN SYSTEM ======")
 
 username = input("Enter Username : ")
